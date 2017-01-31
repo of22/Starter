@@ -1,0 +1,5 @@
+D:\C_sharp\Starter\008_Methods\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C_sharp\Starter\008_Methods\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C_sharp\Starter\008_Methods\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C_sharp\Starter\008_Methods\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C_sharp\Starter\008_Methods\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

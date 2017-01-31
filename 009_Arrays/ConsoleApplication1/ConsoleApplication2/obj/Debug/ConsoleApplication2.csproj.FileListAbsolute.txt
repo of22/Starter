@@ -1,0 +1,6 @@
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C_sharp\Starter\009_Arrays\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

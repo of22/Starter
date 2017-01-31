@@ -1,0 +1,5 @@
+D:\C_sharp\Starter\003_Variables\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\C_sharp\Starter\003_Variables\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\C_sharp\Starter\003_Variables\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\C_sharp\Starter\003_Variables\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\C_sharp\Starter\003_Variables\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
